@@ -161,7 +161,7 @@
     margin: auto;
   }
   div.video{
-   background-color: rgb(2, 134, 2);
+   background-color: var(--cor4);
    margin: 0px -10px;
  
    padding-bottom: 60%;
